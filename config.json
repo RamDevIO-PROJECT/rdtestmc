@@ -1,9 +1,9 @@
 {
-	"ip":"subscribevanevgt.aternos.me",
-	"port": "00000",
+	"ip":"minedigital.aternos.me",
+	"port": "42234",
 	"name": "namabot",
 	"auto-night-skip":"false",
-	"login-enabled":"true",
+	"login-enabled":"false",
 	"register-cmd":"/register huhuhu ",
 	"login-cmd":"/login huhuhu "
 }
